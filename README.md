@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/ethan-eldib/ethan-eldib/blob/main/images/town.jpg)
+![Cover](https://github.com/ethan-eldib/ethan-eldib/blob/main/images/assouan.jpg)
 
 <!--
 **ethan-eldib/ethan-eldib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
