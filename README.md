@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Cover](https://github.com/ethan-eldib/ethan-eldib/blob/main/images/nasa.jpg)
 
 <!--
